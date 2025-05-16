@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+burn-env/
+.env
+old_versions/
+new_training_images/
+uploads/

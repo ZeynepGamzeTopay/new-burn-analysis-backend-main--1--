@@ -1,0 +1,6 @@
+@BurnAnalysisApp_HostAddress = http://localhost:5005
+
+GET {{BurnAnalysisApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
